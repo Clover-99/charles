@@ -8,5 +8,6 @@
 <body>
     
 <h1>SAMPLE</h1>
+<h2>SAMPLE 2</h2>
 </body>
 </html>
